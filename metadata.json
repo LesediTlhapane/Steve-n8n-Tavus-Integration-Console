@@ -1,0 +1,6 @@
+{
+  "name": "Steve ↔ n8n Tavus Integration Console",
+  "description": "Step-by-step interactive setup, payload generator, and test console to connect Tavus AI mentor Steve to n8n post-call Gemini evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
